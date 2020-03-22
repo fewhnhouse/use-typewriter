@@ -1,6 +1,6 @@
 {
   "name": "@fe.whnhouse/use-typewriter",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "A React Hook to write text delayed on render, like a typewriter.",
   "main": "build/index.js",
   "scripts": {
